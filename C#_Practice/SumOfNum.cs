@@ -8,6 +8,9 @@ namespace C__Practice
     {
         static void Main()
         {
+
+            // Take two numbers and print their sum
+
             Console.WriteLine("Enter First Number");
             int num1=Convert.ToInt32(Console.ReadLine());
 
