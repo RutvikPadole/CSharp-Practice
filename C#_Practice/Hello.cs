@@ -5,11 +5,14 @@ using System.Threading.Channels;
 
 namespace C__Practice
 {
-    internal class Hello
+    internal class Square
     {
-       static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello World !");
+            Console.WriteLine("Enter one number");
+            int num = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine(num*num);
         }
     }
 }
