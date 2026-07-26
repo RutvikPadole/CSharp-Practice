@@ -19,7 +19,7 @@ namespace C__Practice
 
             int sum = num1 + num2;
 
-            Console.WriteLine(sum);
+            Console.WriteLine("Sum is: " + sum);
         }
     }
 }

@@ -5,7 +5,7 @@ using System.Threading.Channels;
 
 namespace C__Practice
 {
-    internal class Square
+    internal class Hello
     {
         static void Main(string[] args)
         {

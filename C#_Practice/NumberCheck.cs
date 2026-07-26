@@ -16,8 +16,10 @@ namespace C__Practice
 
             if (num > 0)
                 Console.WriteLine("Positive number");
-            else
+            else if (num < 0)
                 Console.WriteLine("Negative number");
+            else
+                Console.WriteLine("The number is zero");
         }
     }
 }
