@@ -13,16 +13,16 @@ namespace C__Practice
             Console.WriteLine("enter numbers");
             int num = Convert.ToInt32(Console.ReadLine());
 
-            int result = 0;
+            int reverse = 0;
 
             while (num > 0)
             {
                 int digit = num % 10;
-                result = result * 10 + digit;
+                reverse = reverse * 10 + digit;
                 num = num / 10;
             }
 
-            Console.WriteLine("Reversed number : " + result);
+            Console.WriteLine("Reversed number : " + reverse);
         }
     }
 }
