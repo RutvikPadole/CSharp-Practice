@@ -11,6 +11,8 @@ namespace C__Practice
             Console.WriteLine("Enter one number");
             int num = Convert.ToInt32(Console.ReadLine());
 
+            num = num * num;
+
             Console.WriteLine("Square is: " + num);
         }
     }
