@@ -6,7 +6,7 @@
     <RootNamespace>C__Practice</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C__Practice.StudentGrade</StartupObject>
+    <StartupObject>C__Practice.ChechEvenTernary</StartupObject>
   </PropertyGroup>
 
 </Project>
