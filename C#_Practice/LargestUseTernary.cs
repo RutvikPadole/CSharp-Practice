@@ -8,7 +8,7 @@ namespace C__Practice
     {
         static void Main()
         {
-            
+            // Find the larger of two numbers using ternary operator.
 
             Console.WriteLine("Enter first number");
             int num1 = Convert.ToInt32(Console.ReadLine());
