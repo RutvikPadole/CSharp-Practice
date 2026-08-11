@@ -18,7 +18,7 @@ namespace C__Practice
             else
             {
                 Console.WriteLine("Not a leap year");
-            }
+            }   
         }
     }
 }
