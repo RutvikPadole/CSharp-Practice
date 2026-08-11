@@ -14,9 +14,7 @@ namespace C__Practice
             Console.WriteLine("Enter number");
             int num = Convert.ToInt32(Console.ReadLine());
 
-            string result;
-
-            result = num % 2 == 0 ? "Even" : "Odd";
+           string result = num % 2 == 0 ? "Even" : "Odd";
 
             Console.WriteLine(result);
         }
