@@ -6,7 +6,7 @@
     <RootNamespace>C__Practice</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C__Practice.LeapYearUsingTernary</StartupObject>
+    <StartupObject>C__Practice.DivisibleNumForLoop</StartupObject>
   </PropertyGroup>
 
 </Project>
