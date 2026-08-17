@@ -9,7 +9,8 @@ namespace C__Practice
     {
         static void Main()
         {
-            // Check if a number is even or odd using ternary operator (num % 2 == 0 ? "Even" : "Odd").
+            // Check if a number is even or odd.
+            // using ternary operator.
 
             Console.WriteLine("Enter number");
             int num = Convert.ToInt32(Console.ReadLine());
