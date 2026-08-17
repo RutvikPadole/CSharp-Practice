@@ -16,7 +16,6 @@ namespace C__Practice
                 {
                     count = count + 1;
                 }
-               
             }
 
             Console.WriteLine(count);
