@@ -6,7 +6,8 @@ namespace C__Practice
 {
     internal class PritntNumForLoop
     {
-        // Task B: Print numbers from 1 to 20, but only print the multiples of 3 (3, 6, 9, 12...).
+        // Task B: Print numbers from 1 to 20,
+        // but only print the multiples of 3 (3, 6, 9, 12...).
         static void Main()
         {
             for(int i = 1; i<=20;  i++)
