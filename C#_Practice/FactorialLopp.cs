@@ -16,6 +16,7 @@ namespace C__Practice
             {
                 factorial = factorial * i;
             }
+
             Console.WriteLine(factorial);
         }
     }
