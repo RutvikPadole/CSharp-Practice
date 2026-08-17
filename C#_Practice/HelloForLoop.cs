@@ -7,8 +7,7 @@ namespace C__Practice
     internal class HelloForLoop
     {
         //Task A — Warm-up: Print "Hello" 5 times.
-
-        static void Main()
+       static void Main()
         {
             
             for (int i=1; i<=5; i++)
