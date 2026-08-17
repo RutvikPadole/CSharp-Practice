@@ -8,7 +8,7 @@ namespace C__Practice
     {
         static void Main()
         {
-            //   // WAP to check Armstrong numbers
+           // WAP to check Armstrong numbers
 
             Console.WriteLine("Enter a number");
             int num = Convert.ToInt32(Console.ReadLine());
