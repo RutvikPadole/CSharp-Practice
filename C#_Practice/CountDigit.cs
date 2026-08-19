@@ -17,10 +17,9 @@ namespace C__Practice
             {
                  count++;
 
-                num = num / 10;
-
-               
+                num = num / 10;  
             }
+
             Console.WriteLine("The number of digit is: " + count);
         }
     }
