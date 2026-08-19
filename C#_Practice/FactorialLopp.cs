@@ -12,6 +12,7 @@ namespace C__Practice
             int num = Convert.ToInt32 (Console.ReadLine());
 
             int factorial = 1;
+
             for (int i = 1; i <=num; i++)
             {
                 factorial = factorial * i;
