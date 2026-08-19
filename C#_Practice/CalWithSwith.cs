@@ -17,8 +17,6 @@ namespace C__Practice
             Console.WriteLine("Enter your operator");
             char op = Convert.ToChar(Console.ReadLine());
 
- 
-
             switch(op)
             {
                 case '+':
