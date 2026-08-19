@@ -8,7 +8,8 @@ namespace C__Practice
     {
         static void Main(string[] args)
         {
-            //Rewrite your leap year checker's final if-else (Leap year / Not a leap year) using a ternary operator instead.
+            //Rewrite your leap year checker's final if-else
+            //(Leap year / Not a leap year) using a ternary operator instead.
 
             Console.WriteLine("Enter Year");
             int Year = Convert.ToInt32(Console.ReadLine());
