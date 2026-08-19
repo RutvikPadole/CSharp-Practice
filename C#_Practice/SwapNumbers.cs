@@ -22,7 +22,6 @@ namespace C__Practice
             num2 = temp;
 
             Console.WriteLine("After Swapping:");
-
             Console.WriteLine("num1 : " + num1);
             Console.WriteLine("num2 : " + num2);
         }
