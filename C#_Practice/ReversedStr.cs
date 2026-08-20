@@ -15,8 +15,11 @@ namespace C__Practice
             Console.WriteLine("Length " + length);
 
             char[] chars = Input.ToCharArray();
+
             Array.Reverse(chars);
+
             string reversed = new string(chars);
+
             Console.WriteLine("Reversed : " + reversed);
                                         
         }
