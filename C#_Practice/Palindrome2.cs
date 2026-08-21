@@ -26,9 +26,7 @@ namespace C__Practice
             if (original == reverse)
 
                 Console.WriteLine("The number is palindrome");
-
             else
-
                 Console.WriteLine("The number is not palindrome");
         }
     }
