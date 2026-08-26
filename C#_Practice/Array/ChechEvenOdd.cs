@@ -25,6 +25,7 @@ namespace C__Practice.Array
                     odd++;
 
             }
+
             Console.WriteLine("Even number is :- " + even);
             Console.WriteLine("Odd number is :- " + odd);
         }
