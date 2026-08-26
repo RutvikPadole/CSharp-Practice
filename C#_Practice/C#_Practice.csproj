@@ -6,7 +6,7 @@
     <RootNamespace>C__Practice</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C__Practice.LinqGroupBy</StartupObject>
+    <StartupObject>C__Practice.ClassObject.Class1Better</StartupObject>
   </PropertyGroup>
 
 </Project>
