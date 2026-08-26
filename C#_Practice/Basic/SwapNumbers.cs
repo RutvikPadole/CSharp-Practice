@@ -8,7 +8,7 @@ namespace C__Practice.Basic
     {
         static void Main(string[] args)
         {
-            // WAP TO Swap two numbers (WITH third variable)
+            // WAP TO Swap two numbers ( WITH third variable )
 
             Console.WriteLine("Enter your first number");
             int num1 =Convert.ToInt32(Console.ReadLine());
