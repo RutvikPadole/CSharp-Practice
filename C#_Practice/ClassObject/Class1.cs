@@ -12,8 +12,6 @@ namespace C__Practice.ClassObject
         int marks;
         string course;
     
-
-
     static void Main(string[] args)
         {
             Class1 c1 = new Class1();
