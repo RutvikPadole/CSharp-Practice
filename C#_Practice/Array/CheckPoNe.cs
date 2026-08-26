@@ -28,7 +28,6 @@ namespace C__Practice.Array
                 {
                     Console.WriteLine(arr[i] + " is zero");
                 }
-                
                     
             }
         }
