@@ -23,7 +23,9 @@ namespace C__Practice.Array
             }
 
             Console.WriteLine("The Frequency of number is :- " + count);
+
             }
+
         }
     
 }
