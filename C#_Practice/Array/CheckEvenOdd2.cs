@@ -13,6 +13,7 @@ namespace C__Practice.Array
 
             for (int i = 1; i<= arr.Length; i++)
             {
+
                 if (arr[i] % 2==0)
                 {
                     Console.WriteLine(arr[i] +  " is even");
