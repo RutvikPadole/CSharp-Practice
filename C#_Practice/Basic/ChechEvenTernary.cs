@@ -11,7 +11,6 @@ namespace C__Practice.Basic
         {
             // Check if a number is even or odd  using ternary operator.
 
-
             Console.WriteLine("Enter number");
             int num = Convert.ToInt32(Console.ReadLine());
 
