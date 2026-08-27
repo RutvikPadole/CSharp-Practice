@@ -20,10 +20,12 @@ namespace C__Practice.Array
                 {
                     Console.WriteLine(arr[i] + " is positive");
                 }
+
                 else if (arr[i] <0)
                 {
                     Console.WriteLine(arr[i] + " is negative");
                 }
+
                 else if (arr[i] ==0)
                 {
                     Console.WriteLine(arr[i] + " is zero");
