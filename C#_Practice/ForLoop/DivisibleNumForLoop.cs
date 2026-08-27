@@ -8,6 +8,7 @@ namespace C__Practice.ForLoop
     {
         static void Main(string[] args)
         {
+
             int count = 0;
 
             for (int i = 1; i <= 50; i++)
