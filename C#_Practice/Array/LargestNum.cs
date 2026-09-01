@@ -15,8 +15,10 @@ namespace C__Practice.Array
             int largest = arr[0];
 
             for (int i=1;  i<arr.Length; i++)
+
             {
                 if (arr[i]> largest)
+
                 {
                     largest = arr[i];
                 }
