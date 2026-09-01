@@ -15,6 +15,7 @@ namespace C__Practice.Switch
             int month = Convert.ToInt32(Console.ReadLine());
 
             switch (month)
+
             {
                 case 12:
                 case 1:
