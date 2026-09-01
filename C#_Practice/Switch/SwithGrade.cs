@@ -8,7 +8,7 @@ namespace C__Practice.Switch
     {
         static void Main()
         {
-            //Grading system using switch:
+            // Grading system using switch:
 
             Console.WriteLine("Enter your grade");
             char grade = Convert.ToChar(Console.ReadLine());
