@@ -20,6 +20,7 @@ namespace C__Practice.ForLoop
             }
 
             Console.WriteLine(count);
+
         }
     }
 }
