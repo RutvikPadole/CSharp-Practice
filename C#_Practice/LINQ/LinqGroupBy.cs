@@ -7,8 +7,7 @@ namespace C__Practice.LINQ
     internal class LinqGroupBy
     {
         static void Main()
-        {
-
+        { 
 
         }
     }
