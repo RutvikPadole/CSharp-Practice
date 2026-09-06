@@ -21,7 +21,6 @@ namespace C__Practice.ClassObject
 
         static void Main(string[] args)
         {
-            Class1Better obj = new("Rutvik", 22, 92, "MCM");
         }
 
     }
