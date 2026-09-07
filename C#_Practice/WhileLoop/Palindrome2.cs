@@ -23,6 +23,7 @@ namespace C__Practice.WhileLoop
                 num = num / 10;
 
             }
+
             if (original == reverse)
 
                 Console.WriteLine("The number is palindrome");
