@@ -18,6 +18,7 @@ namespace C__Practice.Basic
             {
                 reverse = reverse + str[i];
             }
+
             Console.WriteLine("Reversed string :- " + reverse);
         }
     }
