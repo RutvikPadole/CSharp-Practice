@@ -10,6 +10,7 @@ namespace C__Practice.Array
         {
             // Task 20 — Find the Second Smallest Number
 
+
             int[] arr = { 10, 5, 20, 3, 8, 15 };
 
             int smallest = arr[0];
