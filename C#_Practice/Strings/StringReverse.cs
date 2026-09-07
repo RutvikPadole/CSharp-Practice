@@ -8,6 +8,8 @@ namespace C__Practice.Strings
     {
         static void Main(string[] args)
         {
+            // String Task 1 — Reverse a String
+
             string Name = "Hello";
 
             for (int i = Name.Length -1; i>=0; i--)
