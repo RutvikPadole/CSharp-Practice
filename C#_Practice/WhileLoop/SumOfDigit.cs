@@ -19,6 +19,7 @@ namespace C__Practice.WhileLoop
                 sum = sum + digit;
                 num = num /10;
             }
+
             Console.WriteLine("The sum of digit is: " + sum);
         }
     }
