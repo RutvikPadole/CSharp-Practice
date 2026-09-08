@@ -8,6 +8,8 @@ namespace C__Practice.Strings
     {
         static void Main()
         {
+            //String Task 8 — Remove Duplicate Characters
+
             string str = "programming";
             string result = "";
 
