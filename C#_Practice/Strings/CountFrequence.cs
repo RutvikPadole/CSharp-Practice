@@ -11,7 +11,6 @@ namespace C__Practice.Strings
             // String Task 6 — Count Frequency of a Character "G"
 
             string str = "Programming";
-
             int count = 0;
 
             for (int i = 0; i < str.Length; i++)
