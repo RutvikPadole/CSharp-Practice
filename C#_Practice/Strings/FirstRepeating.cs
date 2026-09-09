@@ -8,6 +8,8 @@ namespace C__Practice.Strings
     {
         static void Main(string[] args)
         {
+            // String Task 10 — Find the First Repeating Character
+
             string str = "Programming";
 
             for (int i =0; i < str.Length; i++)
