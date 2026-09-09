@@ -11,7 +11,6 @@ namespace C__Practice.Strings
             // String Task 5 — Count Words in a String
 
             string str = "I am learning C Sharp language";
-
             int count = 0;
 
             for (int i = 0; i < str.Length; i++)
