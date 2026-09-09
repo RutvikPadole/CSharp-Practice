@@ -6,7 +6,7 @@
     <RootNamespace>C__Practice</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C__Practice.Strings.RemoveDuplicate</StartupObject>
+    <StartupObject>C__Practice.Strings.FirstRepeating</StartupObject>
   </PropertyGroup>
 
 </Project>
