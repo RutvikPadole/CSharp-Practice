@@ -19,6 +19,7 @@ namespace C__Practice.Basic
                 reverse = reverse + str[i];
 
             }
+
             if (str == reverse)
             
                 Console.WriteLine("Palindrome");
