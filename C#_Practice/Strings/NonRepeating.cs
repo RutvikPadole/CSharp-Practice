@@ -24,7 +24,6 @@ namespace C__Practice.Strings
                         count++;
                     }
                 }
-
                 if (count == 1)
                 {
                     Console.WriteLine("First non repeating character is :- " + str[i]);
