@@ -21,7 +21,6 @@ namespace C__Practice.Strings
 
                 }
             }
-
             count++;
             Console.WriteLine("The total number of word is :- " + count);
 
