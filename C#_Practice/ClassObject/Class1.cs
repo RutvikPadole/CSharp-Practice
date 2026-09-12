@@ -26,7 +26,6 @@ namespace C__Practice.ClassObject
             c2.age = 29;
             c2.course = "MCM";
 
-
             Console.WriteLine(c1.name);
             Console.WriteLine(c1.marks);
             Console.WriteLine(c1.age);
