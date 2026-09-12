@@ -22,6 +22,7 @@ namespace C__Practice.Basic
                 num = num / 10;
 
             }
+
             if (original == result)
 
                 Console.WriteLine("This is palindrome number");
