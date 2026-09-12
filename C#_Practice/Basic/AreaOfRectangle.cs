@@ -9,7 +9,8 @@ namespace C__Practice.Basic
     {
         static void Main(string[] args)
         {
-            // Write a program to calculate the area and perimeter of a rectangle given length and width.
+            // Write a program to calculate the area
+            // and perimeter of a rectangle given length and width.
 
             Console.WriteLine("Enter lenght of rectangle");
             double lenght = Convert.ToDouble(Console.ReadLine());
