@@ -22,6 +22,7 @@ namespace C__Practice.Basic
                sum = sum + (digit * digit * digit);
                 num  = num / 10;
             }   
+
             if (original == sum )
             {
                 Console.WriteLine("The number is armstrong number");
