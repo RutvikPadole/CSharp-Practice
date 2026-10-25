@@ -44,7 +44,7 @@ namespace C__Practice.Demo
             }
             else
             {
-                Console.WriteLine("Wrong the correct answer is : "+ Answer2);
+                Console.WriteLine("Wrong the correct answer is : " + Answer2);
             }
 
 
